@@ -81,7 +81,7 @@ export default function IntegratedAiChat() {
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="Ask about fitness..."
-            className="flex-1 px-4 py-2 border rounded-lg"
+            className="flex-1 px-4 py-2 border rounded-lg text-black placeholder:text-gray-500"
             disabled={isStreaming}
           />
           <button
