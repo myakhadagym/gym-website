@@ -76,7 +76,7 @@ export default function Footer() {
 
         </div>
         <div className="border-t border-secondary/30 mt-12 pt-8 text-center">
-          <p className="text-sm text-white/60">&copy; Built By Vishnu Singh : AI Generalist</p>
+          <p className="text-sm text-white/60">Built By Vishnu Singh : AI Generalist</p>
           <p className="text-sm text-white/60">&copy; 2026 Akhada The Gym. All rights reserved.</p>
         </div>
       </div>
